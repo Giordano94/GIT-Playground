@@ -89,6 +89,7 @@ Para obter mais informações sobre o Git e suas funcionalidades, consulte os se
 
 - [Documentação oficial do Git](https://git-scm.com/doc)
 - [Pro Git - Livro Gratuito sobre o Git](https://git-scm.com/book/en/v2)
+- [GIT - Guia completo](https://www.youtube.com/playlist?list=PLyJNPtWGiZtxhMlVpuh3wGQP_9ztJs8B0)
 
 
 
