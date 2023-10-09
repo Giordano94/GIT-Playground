@@ -10,6 +10,12 @@ const Form: FC = () => {
       <TextField label="Address" />
       <TextField label="Birth date" />
       <TextField label="Marital Status" />
+      <div>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae
+        dolor officia iusto nisi voluptate ea quas asperiores, eius aliquam.
+        Cumque et veniam, dignissimos animi quod nihil commodi molestias
+        incidunt vero.
+      </div>
     </div>
   );
 };
