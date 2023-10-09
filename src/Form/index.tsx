@@ -1,15 +1,15 @@
 import { FC } from 'react';
+import { TextField } from '@mui/material';
 
 const Form: FC = () => {
   return (
     <div>
       <h1>Form</h1>
-      <input type="text">Name</input>
-      <input type="text">CPF</input>
-      <input type="text">Endereço</input>
-      <input type="text">Data de nascimento</input>
-      <input type="text">Estado civil </input>
-      <input type="text">Renda</input>
+      <TextField label="Name" />
+      <TextField label="CPF" />
+      <TextField label="Address" />
+      <TextField label="Birth date" />
+      <TextField label="Marital Status" />
     </div>
   );
 };
